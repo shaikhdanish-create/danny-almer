@@ -6,3 +6,4 @@ if password == "danish123":
     print("Access Granted")   # If correct password
 else:
     print("Access Denied")    # If wrong password
+

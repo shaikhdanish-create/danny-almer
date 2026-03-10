@@ -6,4 +6,7 @@ if random_head_or_tells == 0:
     print("head")
 else:
     print("tails")
+
+#common code of any language
+
     

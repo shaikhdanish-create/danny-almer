@@ -1,7 +1,7 @@
 https://github.com/shaikhdanish-create/danny-almer.git
 
 num1 = float(input("Enter first number: "))    
-num2 = float(input("Enter second number: "))
+num2 = float(input("Enter second number: "))   
 
 # Choosing operation
 print("Choose operation:")
